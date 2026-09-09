@@ -215,7 +215,7 @@
     "address": "0x2a92CAA3b01E64634e2E95AA533a5570a76c19A7",
     "chainId": 8453,
     "name": "PENNIES CHEQ",
-    "symbol": "✓",
+    "symbol": "\u2713",
     "decimals": 18,
     "logoURI": "https://jvoidial.github.io/spirit-guide-token/images/pennies cheq.png"
   },
@@ -1187,5 +1187,13 @@
     ],
     "coingeckoId": "l2-standard-bridged-usdt-base",
     "chainId": 8453
+  },
+  {
+    "address": "0x95c7e2d53f4b615a50d4468dfd5aff850dc17f0c",
+    "name": "Pennies Index",
+    "symbol": "PIDX",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://raw.githubusercontent.com/jvoidial/token-lists/main/icons/PIDX.png"
   }
 ]
